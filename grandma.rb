@@ -5,7 +5,7 @@ def speak_to_grandma(string)
     p "NO, NOT SINCE 1938!"
     elsif
     string=="I LOVE YOU GRANDMA!"
-    
+    p ""
   
 
 

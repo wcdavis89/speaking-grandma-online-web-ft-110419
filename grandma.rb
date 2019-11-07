@@ -7,7 +7,7 @@ def speak_to_grandma(string)
     string=="I LOVE YOU GRANDMA!"
     p "I LOVE YOU TOO PUMPKIN!"
   else
-    p "HUH?! SPEAK UP SONNY!"
+    p "HUH?! SPEAK UP, SONNY!"
   end
 end
 

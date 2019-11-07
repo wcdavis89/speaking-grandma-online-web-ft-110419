@@ -3,6 +3,8 @@ def speak_to_grandma(string)
     p "NO, NOT SINCE 1938!"
     elsif string=="WHAT?"
     p "NO, NOT SINCE 1938!"
+    elsif
+    
   
 
 

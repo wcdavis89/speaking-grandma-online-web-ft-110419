@@ -1,6 +1,6 @@
 def speak_to_grandma(string)
   if string=="WHAT DI YOU EAT TODAY?"
-    
+    p ""
   
 
 

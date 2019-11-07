@@ -2,7 +2,7 @@ def speak_to_grandma(string)
   if string=="WHAT DID YOU EAT TODAY?"
     p "NO, NOT SINCE 1938!"
     elsif string=="WHAT?"
-    p ""
+    p "NO, NOT SINCE 1938!"
   
 
 
